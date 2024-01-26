@@ -19,3 +19,7 @@ function f3() {
 let msg = "new line added and information added"
 
 function calc(a, b) { return a + b }
+
+function greeting() {
+    return "welcome to JEC"
+}
