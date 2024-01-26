@@ -17,3 +17,5 @@ function f3() {
     return 3
 }
 let msg = "new line added and information added"
+
+function calc(a, b) { return a + b }
