@@ -16,3 +16,4 @@ function f2() {
 function f3() {
     return 3
 }
+let msg = "new line added and information added"
